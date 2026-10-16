@@ -1,0 +1,15 @@
+# Credenciales
+.env
+
+# Documentación y material provisto por el MSAL (contiene credenciales)
+*.doc
+*.docx
+*.pdf
+*.zip
+*.postman_collection.json
+*.postman_environment.json
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
